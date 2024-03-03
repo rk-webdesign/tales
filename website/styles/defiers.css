@@ -1,0 +1,31 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 100px;
+    margin-left: 500px; /* Adjust the left margin as needed */
+    margin-right: 500px; /* Adjust the right margin as needed */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+    background-color: rgb(41, 41, 41);
+    color: rgb(238, 238, 238); /* Optionally, set text color to white for better visibility */
+}
+h1 {
+    color: #fcccde;
+    font-size: 30px;
+}
+h2 {
+    color: #fcccde;
+}
+h3 {
+    color: #fcccde;
+}
+p {
+    color: #c5c5c5;
+    font-size: 20px;
+}
+/* Default link color */
+a {
+    color: rgb(243, 205, 37);
+}
+
+/* Change link color on hover */
+a:hover {
+    color: rgb(40, 255, 112);
+}
