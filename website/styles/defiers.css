@@ -6,6 +6,15 @@ body {
     background-color: rgb(41, 41, 41);
     color: rgb(238, 238, 238); /* Optionally, set text color to white for better visibility */
 }
+.right-align {
+    text-align: right;
+    overflow: hidden; /* if you don't want #second to wrap below #first */
+}
+.left-align {
+    text-align: left;
+    float:left;
+}
+
 h1 {
     color: #fcccde;
     font-size: 30px;
