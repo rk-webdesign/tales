@@ -43,7 +43,7 @@ a:hover {
     margin: 10px;
 }
 
-/* Optional: Add some styling for better appearance */
+/* Change every odd numbered Column to a different color */
 .column:nth-child(odd) {
-    background-color: #1e1f49;
+    background-color: rgb(41, 41, 41);
 }
